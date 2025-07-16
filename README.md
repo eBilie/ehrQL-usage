@@ -6,7 +6,7 @@ Some specific questions that we would like to answer:
 - What are the most popular ehrQL features?
 - What are the least popular ehrQL features? Are any features not used at all?
 - erhQL code can be tested using the assure feature, which repos are using this (and therefore testing their code)?
-- The show() function is new. It’s used for debugging, but might not be present in the code committed to GitHub. Is it used at all?
+- The show() function is new. It is used for debugging, but might not be present in the code committed to GitHub. Is it used at all?
 - Which deprecated ehrQL features are still in use?
 
 
