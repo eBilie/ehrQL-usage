@@ -60,13 +60,15 @@ Some specific questions that we would like to answer:
 
 ---
 
+## What's Next?
+
 ## Example Output
 
 ```text
-✅ Feature Usage Counts:
+Feature Usage Counts:
 show(): 0
 configure_dummy_data: 95
 add_column: 122
 
-## What's Next?
+
 
