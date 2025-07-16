@@ -39,8 +39,8 @@ Some specific questions that we would like to answer:
 | File | Description |
 |------|-------------|
 | `opensafely_ehrql_results.xlsx` | Extracted GitHub results including file URLs and repo details. |
-| `function_count_script.py` or `.ipynb` | Main script for feature search and counting. |
-| `README.md` | Documentation of the project. |
+| `ehrQL_analysis.py` | Main script for feature search and counting. |
+| `README.md` | Documentation. |
 
 ---
 
@@ -67,3 +67,6 @@ Some specific questions that we would like to answer:
 show(): 0
 configure_dummy_data: 95
 add_column: 122
+
+## What's Next?
+
