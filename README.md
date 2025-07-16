@@ -2,7 +2,7 @@
 
 This project aims to understand what ehrQL features are used  by researchers in the OpenSafely(https://github.com/opensafely) GitHub organization to identify and count the usage of specific `ehrQL` functions. It is designed to provide insight into how commonly certain features of the `ehrQL` library are used across different repositories and projects. What features may not be used at all. 
 
-Some specific questions that we’d like to answer:
+Some specific questions that we would like to answer:
 - What are the most popular ehrQL features?
 - What are the least popular ehrQL features? Are any features not used at all?
 - erhQL code can be tested using the assure feature, which repos are using this (and therefore testing their code)?
