@@ -50,13 +50,13 @@ Some specific questions that we would like to answer:
    The script queries GitHub’s API for Python files in OpenSAFELY repos containing the `ehrQL` keyword.
 
 2. **Extract Metadata**  
-   Saves file names, paths, and raw content URLs to a CSV.
+   Saved file names, paths, and raw content URLs to an excel file.
 
 3. **Download and Analyse**  
-   Downloads each Python file and uses pattern matching (via `re`) to count specific function usage.
+   Downloaded each Python file and used pattern matching (via `re`) to count specific function usage.
 
 4. **Output**  
-   Displays total counts for each feature searched.
+   Displayed total counts for each feature searched.
 
 ---
 
